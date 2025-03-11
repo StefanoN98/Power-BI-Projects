@@ -20,7 +20,8 @@ This Power BI report visualizes every shot Kobe Bryant took from the 1996 to 201
 🎨 Conditional Formatting: Dynamically updates the legend based on slicer selection, directly impacting the scatterplot’s color scheme.  
 🛠️ Innovative Slicer: Inspired by Power BI’s new Core Visuals Vision Board, introducing a fresh approach to interactive filtering.  
 
-![NBA Scatterplot](https://github.com/StefanoN98/Power-BI-Projects/blob/61db2eb5720adac4397c7a0685c17400fcaf5862/Docs/NBA%20Dynamic%20Scatterplot/gif.gif)
+<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/61db2eb5720adac4397c7a0685c17400fcaf5862/Docs/NBA%20Dynamic%20Scatterplot/gif.gif" alt="NBA Scatterplot" width="650" height="350">
+
 
 ---
 
@@ -35,7 +36,8 @@ The Matrix visual in Power BI is not just for displaying data, but it's a powerf
 🎨 Incorporate SVGs, bars, or dynamic gradient backgrounds that change based on values, enhancing visual appeal.  
 📊 Create Comparisons and Rankings with interactive titles and subtitles that highlight key insights.  
 
- ![Matrix Visual](https://github.com/StefanoN98/Power-BI-Projects/blob/8c14848555ca47093c7a4d3b65da602ada52258f/Docs/Matrix%20Visual/Matrix%20Visual.png)
+![Matrix Visual](https://github.com/StefanoN98/Power-BI-Projects/blob/8c14848555ca47093c7a4d3b65da602ada52258f/Docs/Matrix%20Visual/Matrix%20Visual.png)
+
 
 ---
 
