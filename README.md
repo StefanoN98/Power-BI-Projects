@@ -9,7 +9,7 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 
 ---
 
-## [3 Report same dataset](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_datavisualization-businessintelligence-stakeholderengagement-activity-7244752900067840002-hVrl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
+# [3 Report same dataset](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_datavisualization-businessintelligence-stakeholderengagement-activity-7244752900067840002-hVrl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
 ### Overview
 Using the same dataset, I developed three distinct reports, each with its own style, layout, and insights.📊  
 Each dashboard serves a different purpose, showing how data can be molded to meet specific business goals. 🎯
@@ -22,7 +22,7 @@ Each dashboard serves a different purpose, showing how data can be molded to mee
 
 ---
 
-## [Dumbell Chart Variations](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_dataviz-powerbi-dataanalytics-activity-7241848830520922114-IT4R?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
+# [Dumbell Chart Variations](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_dataviz-powerbi-dataanalytics-activity-7241848830520922114-IT4R?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
 ### Overview
 In this post, I explored advanced data visualization techniques to display dumbell chart.
 
@@ -37,7 +37,7 @@ In this post, I explored advanced data visualization techniques to display dumbe
   ![Arrow + % Dumbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/4.%20Arrow%20%2B%20%25%20Dumbell%20Chart.png)
 ---
 
-## [F1 GAP Recreation + SQL Analysis ](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) 
+# [F1 GAP Recreation + SQL Analysis ](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) 
 ### Overview
 This project is a Formula 1 data visualization built in *Power BI*, leveraging *Power Query*, *DAX* and *SQL*. Inspired by an F1 post on Instagram, I decided to scrape race data directly from the official F1 website, process it in *Power BI*, and create interactive visualizations. ( [Linkedin Post](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) )
 
