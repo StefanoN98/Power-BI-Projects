@@ -13,6 +13,17 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 ### Overview
 Using the same dataset, I developed three distinct reports, each with its own style, layout, and insights.📊  
 Each dashboard serves a different purpose, showing how data can be molded to meet specific business goals. 🎯
+
+### Feature
+In these reports I appplied the common transformation in Power Query, while in Power BI I created DAX measures and calculated columns.
+
+#### Visualization included:
+- **Tables & Matrix**: Used for displaying aggregated data, including heat maps and calendar matrices for quick data consultation and trend analysis.
+- **Bar & Column Charts**: Ideal for category comparisons, including Top N analysis and date-based analysis.
+- **Scatter Chart**: Employed to highlight outliers and correlations between variables.
+- **Line Chart**: Utilized for time-based analysis, showing trends and changes over time.
+- **Cards**: Designed for displaying key performance indicators (KPIs) in a clear, concise manner.
+
 ### Monochrome Report
  ![Monochrome Report](https://github.com/StefanoN98/Power-BI-Projects/blob/16a98f6f0bda361df8bba407bef0a7926d137e5d/Docs/3%20Report%20same%20dataset/Monochrome%20Report.png)
 ### Dark Report
