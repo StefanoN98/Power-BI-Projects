@@ -7,6 +7,7 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-F28C28?style=for-the-badge&logo=microsoft-powerpoint&labelColor=black&color=F28C28&logoColor=black)
 
+
 ---
 # [NBA Dynamic Scatterplot](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_powerbi-kobebryant-datavisualization-activity-7270358743375089665-FXrT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
 ### Overview
@@ -67,15 +68,25 @@ In these reports I appplied the common transformation in Power Query, while in P
 In this post, I explored advanced data visualization techniques to display dumbell chart.
 
 ### Features
-  1)  **Line chart** with labels managed with dummy variable, in order to guarantee always the visibility of the labels
-  ![Line Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/1.%20Line%20Chart.png)
-  3)  Transformed line chart in **dumbell chart**, simply removing line
-  ![ Classic Dumbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/2.%20Classic%20Dumbell%20Chart.png)
-  5)  **Added arrow** using error bars
-  ![Arrow Dumbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/3.%20Arrow%20Dumbell%20Chart.png)
-  7)  **Customize lables** using error bars and additional layer
-  ![Arrow + % Dumbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/4.%20Arrow%20%2B%20%25%20Dumbell%20Chart.png)
+1) **Line chart** with labels managed with a dummy variable, ensuring label visibility  
+
+<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/1.%20Line%20Chart.png" alt="Line Chart" width="650" height="250">
+
+2) Transformed line chart into a **dumbbell chart** by removing the line  
+
+<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/2.%20Classic%20Dumbell%20Chart.png" alt="Classic Dumbbell Chart" width="650" height="250">
+
+3) **Added arrows** using error bars  
+
+<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/3.%20Arrow%20Dumbell%20Chart.png" alt="Arrow Dumbbell Chart" width="650" height="250">
+
+4) **Customized labels** using error bars and an additional layer  
+
+<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/4.%20Arrow%20%2B%20%25%20Dumbell%20Chart.png" alt="Arrow + % Dumbbell Chart" width="650" height="250">
+
+
 ---
+
 
 # [F1 GAP Recreation + SQL Analysis ](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) 
 ### Overview
