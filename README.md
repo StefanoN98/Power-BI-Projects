@@ -41,7 +41,7 @@ The Matrix visual in Power BI is not just for displaying data, but it's a powerf
 
 ---
 
-# [3 Report same dataset](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_datavisualization-businessintelligence-stakeholderengagement-activity-7244752900067840002-hVrl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
+# [3 Reports same dataset](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_datavisualization-businessintelligence-stakeholderengagement-activity-7244752900067840002-hVrl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
 ### Overview
 Using the same dataset, I developed three distinct reports, each with its own style, layout, and insights.📊  
 Each dashboard serves a different purpose, showing how data can be molded to meet specific business goals. 🎯
