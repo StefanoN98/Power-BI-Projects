@@ -9,6 +9,19 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 
 ---
 
+## [3 Report same dataset](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_datavisualization-businessintelligence-stakeholderengagement-activity-7244752900067840002-hVrl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
+### Overview
+Using the same dataset, I developed three distinct reports, each with its own style, layout, and insights.📊  
+Each dashboard serves a different purpose, showing how data can be molded to meet specific business goals. 🎯
+### Monochrome Report
+ ![Monochrome Report](https://github.com/StefanoN98/Power-BI-Projects/blob/16a98f6f0bda361df8bba407bef0a7926d137e5d/Docs/3%20Report%20same%20dataset/Monochrome%20Report.png)
+### Dark Report
+ ![Dark Report](https://github.com/StefanoN98/Power-BI-Projects/blob/16a98f6f0bda361df8bba407bef0a7926d137e5d/Docs/3%20Report%20same%20dataset/Dark%20Report.png)
+### Light Report
+ ![Light Report](https://github.com/StefanoN98/Power-BI-Projects/blob/16a98f6f0bda361df8bba407bef0a7926d137e5d/Docs/3%20Report%20same%20dataset/Light%20Report.png)
+
+---
+
 ## [Dumbell Chart Variations](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_dataviz-powerbi-dataanalytics-activity-7241848830520922114-IT4R?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
 ### Overview
 In this post, I explored advanced data visualization techniques to display dumbell chart.
