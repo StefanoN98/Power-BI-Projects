@@ -9,7 +9,17 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 
 ---
 
+## [Dumbell Chart Variations](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_dataviz-powerbi-dataanalytics-activity-7241848830520922114-IT4R?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
+### Overview
+In this post, I explored advanced data visualization techniques to display dumbell chart.
 
+### Features
+  1)  Line chart with labels managed with dummy variable, in order to guarantee always the visibility of the labels 
+  2)  Transformed line chart in dumbell chart, simply removing line
+  3)  Added arrow using error bars
+  4)  Customize lables using error bars and additional layer
+
+---
 
 ## [F1 GAP Recreation + SQL Analysis ](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) 
 ### Overview
