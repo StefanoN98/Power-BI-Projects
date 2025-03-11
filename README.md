@@ -9,6 +9,21 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 
 ---
 
+# [Matrix Visual: A Storytelling Tool in Power BI](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_powerbi-matrix-datavisualization-activity-7259664585006239744-rXb-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
+### Overview
+In this project, I created a dynamic matrix visualization in Power BI to analyze and present complex data in an organized, actionable way. The matrix allows for easy comparison and analysis across multiple dimensions, helping users quickly identify trends, patterns, and insights.
+
+### Feature
+The Matrix visual in Power BI is not just for displaying data, but it's a powerful tool for storytelling! Here’s what you can achieve with it:
+
+🔢 Aggregate Data at multiple detail levels for deeper insights.  
+🎨 Incorporate SVGs, bars, or dynamic gradient backgrounds that change based on values, enhancing visual appeal.  
+📊 Create Comparisons and Rankings with interactive titles and subtitles that highlight key insights.  
+
+ ![Matrix Visual](https://github.com/StefanoN98/Power-BI-Projects/blob/8c14848555ca47093c7a4d3b65da602ada52258f/Docs/Matrix%20Visual/Matrix%20Visual.png)
+
+---
+
 # [3 Report same dataset](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_datavisualization-businessintelligence-stakeholderengagement-activity-7244752900067840002-hVrl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
 ### Overview
 Using the same dataset, I developed three distinct reports, each with its own style, layout, and insights.📊  
