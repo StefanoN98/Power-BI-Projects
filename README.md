@@ -8,6 +8,20 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-F28C28?style=for-the-badge&logo=microsoft-powerpoint&labelColor=black&color=F28C28&logoColor=black)
 
 ---
+# [NBA Dynamic Scatterplot](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_powerbi-kobebryant-datavisualization-activity-7270358743375089665-FXrT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
+### Overview
+This Power BI report visualizes every shot Kobe Bryant took from the 1996 to 2016 seasons, presented through a dynamic scatterplot by area and shot type. This project demonstrates the power of data storytelling and visual creativity in Power BI, serving as both an analytical tool and a tribute to one of the greatest athletes of all time
+
+### Feature
+
+
+📊 Dynamic Scatterplot: Visualizes shot locations, categorized by area and shot type.  
+🎨 Conditional Formatting: Dynamically updates the legend based on slicer selection, directly impacting the scatterplot’s color scheme.  
+🛠️ Innovative Slicer: Inspired by Power BI’s new Core Visuals Vision Board, introducing a fresh approach to interactive filtering.  
+
+![NBA Scatterplot](https://github.com/StefanoN98/Power-BI-Projects/blob/61db2eb5720adac4397c7a0685c17400fcaf5862/Docs/NBA%20Dynamic%20Scatterplot/gif.gif)
+
+---
 
 # [Matrix Visual: A Storytelling Tool in Power BI](https://www.linkedin.com/posts/stefano-neirotti-3455611a7_powerbi-matrix-datavisualization-activity-7259664585006239744-rXb-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw)
 ### Overview
