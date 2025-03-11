@@ -14,11 +14,14 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 In this post, I explored advanced data visualization techniques to display dumbell chart.
 
 ### Features
-  1)  Line chart with labels managed with dummy variable, in order to guarantee always the visibility of the labels 
-  2)  Transformed line chart in dumbell chart, simply removing line
-  3)  Added arrow using error bars
-  4)  Customize lables using error bars and additional layer
-
+  1)  **Line chart** with labels managed with dummy variable, in order to guarantee always the visibility of the labels
+  ![Line Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/1.%20Line%20Chart.png)
+  3)  Transformed line chart in **dumbell chart**, simply removing line
+  ![ Classic Dumbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/2.%20Classic%20Dumbell%20Chart.png)
+  5)  **Added arrow** using error bars
+  ![Arrow Dumbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/3.%20Arrow%20Dumbell%20Chart.png)
+  7)  **Customize lables** using error bars and additional layer
+  ![Arrow + % Dumbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/4.%20Arrow%20%2B%20%25%20Dumbell%20Chart.png)
 ---
 
 ## [F1 GAP Recreation + SQL Analysis ](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) 
