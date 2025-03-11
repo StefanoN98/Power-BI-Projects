@@ -6,5 +6,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-F28C28?style=for-the-badge&logo=microsoft-powerpoint&labelColor=black&color=F28C28&logoColor=black)
 
+---
+
 
 
