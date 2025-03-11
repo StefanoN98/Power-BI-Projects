@@ -13,7 +13,7 @@ Here you will find a collection of Power BI projects, reports or visuals using P
 
 ## [F1 GAP Recreation + SQL Analysis ](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) 
 ### Overview
-This project is a Formula 1 data visualization built in *Power BI*, leveraging *Power Query*, *DAX* and *SQL*. Inspired by an F1 post, I decided to scrape race data directly from the official F1 website, process it in *Power BI*, and create interactive visualizations. ( [Linkedin Post](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) )
+This project is a Formula 1 data visualization built in *Power BI*, leveraging *Power Query*, *DAX* and *SQL*. Inspired by an F1 post on Instagram, I decided to scrape race data directly from the official F1 website, process it in *Power BI*, and create interactive visualizations. ( [Linkedin Post](https://www.linkedin.com/posts/activity-7237014068530692096-grKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBQWqUBxN3LBb14iJ7odmJHVnVXq8pudAw) )
 
 ### Features  
 -  **Data Extraction**: Scraped data from F1 website using Power Query
