@@ -72,19 +72,19 @@ In this post, I explored advanced data visualization techniques to display dumbe
 ### Features
 1) **Line chart** with labels managed with a dummy variable, ensuring label visibility  
 
-<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/1.%20Line%20Chart.png" alt="Line Chart" width="650" height="250">
+![Line Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/1.%20Line%20Chart.png)
 
 2) Transformed line chart into a **dumbbell chart** by removing the line  
 
-<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/2.%20Classic%20Dumbell%20Chart.png" alt="Classic Dumbbell Chart" width="650" height="250">
+![Classic Dumbbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/2.%20Classic%20Dumbell%20Chart.png)
 
 3) **Added arrows** using error bars  
 
-<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/3.%20Arrow%20Dumbell%20Chart.png" alt="Arrow Dumbbell Chart" width="650" height="250">
+![Arrow Dumbbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/3.%20Arrow%20Dumbell%20Chart.png)
 
 4) **Customized labels** using error bars and an additional layer  
 
-<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/4.%20Arrow%20%2B%20%25%20Dumbell%20Chart.png" alt="Arrow + % Dumbbell Chart" width="650" height="250">
+![Arrow + % Dumbbell Chart](https://github.com/StefanoN98/Power-BI-Projects/blob/fb8f55c62b072da97f0fd0d6c2c40bdc3dd4bf1b/Docs/Dumbell%20Chart/4.%20Arrow%20%2B%20%25%20Dumbell%20Chart.png)
 
 
 ---
