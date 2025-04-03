@@ -20,7 +20,7 @@ This Power BI report visualizes every shot Kobe Bryant took from the 1996 to 201
 🎨 Conditional Formatting: Dynamically updates the legend based on slicer selection, directly impacting the scatterplot’s color scheme.  
 🛠️ Innovative Slicer: Inspired by Power BI’s new Core Visuals Vision Board, introducing a fresh approach to interactive filtering.  
 
-<img src="https://github.com/StefanoN98/Power-BI-Projects/blob/61db2eb5720adac4397c7a0685c17400fcaf5862/Docs/NBA%20Dynamic%20Scatterplot/gif.gif" alt="NBA Scatterplot" width="650" height="350">
+![NBA Scatterplot](https://github.com/StefanoN98/Power-BI-Projects/blob/2c7a67018edaf86000a2a1a38a40da92507680b0/Docs/NBA%20Dynamic%20Scatterplot/gif.gif)
 
 
 ---
